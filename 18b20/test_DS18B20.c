@@ -2,12 +2,9 @@
 *========================================================================================================
 *
 * File                : test_18b20.c
-* Hardware Environment:	OpenPIC16F877A && 18b20 && 1602 && 5v voltage && 4M crystal oscillator
+* Hardware Environment:	OpenPIC18F4520 && 18b20 && 1602 && 5v voltage && 4M crystal oscillator
  && 
-* Build Environment   : MPLAB IDE  
-* Version             : V8.76
-* By                  : Zhou Jie
-*
+* Build Environment   : MPLAB X IDE  
 *
 *========================================================================================================
 */
